@@ -1,5 +1,7 @@
 #pip install tk
-#pip install ghostscript            These must be installed first before install camelot
+#pip install ghostscript            
+#^ install these two first then proceed witb camelot
+
 #pip install camelot-py
 #Now procedure with code below
 
